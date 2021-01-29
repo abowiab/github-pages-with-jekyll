@@ -1,5 +1,5 @@
 ---
-title: SOUP
+title: "SOUP"
 date: 2021-01-29
 ---
 This is a blog post
